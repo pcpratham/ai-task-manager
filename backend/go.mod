@@ -1,6 +1,6 @@
 module github.com/task-manager/backend
 
-go 1.25.4
+go 1.24.0
 
 require (
 	github.com/gin-contrib/cors v1.7.6
